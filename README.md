@@ -30,7 +30,7 @@ SmashZone’s Badminton Court Scheduling and Reservation System is a centralized
 ## Project Members
 
 **Head:**  
-- Santos, Samantha Lui A.
+- N/A
 
 **Members:**  
 - Amio, John Carlson  
