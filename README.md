@@ -46,7 +46,7 @@ SmashZone’s Badminton Court Scheduling and Reservation System is a centralized
 The system uses the following technologies:  
 - MySQL database for storing user, court, and reservation data.  
 - HTML, CSS, and JavaScript for the user interface.  
-- Backend logic using PHP, Java, or Node.js (depending on implementation choice).  
+- Backend logic using PHP, Java, or Node.js.  
 - Role-based access control for differentiating administrative and customer access.  
 
 ---
@@ -227,3 +227,41 @@ This guarantees accurate and conflict-free bookings.
 1. Clone the repository:  
 ```bash
 git clone <repository_url>
+
+---
+
+## Future Enhancements
+
+The following improvements are planned for future versions of SmashZone:
+
+1. **Online Payment Integration**  
+   - Allow customers to pay for their reservations directly online.  
+   - Support multiple payment methods including credit/debit cards and e-wallets.  
+
+2. **Email and SMS Notifications**  
+   - Send automatic confirmation emails or SMS when a reservation is made, approved, or cancelled.  
+   - Notify customers before their reservation start time.  
+
+3. **Court Rating and Feedback System**  
+   - Enable customers to rate courts and provide feedback.  
+   - Help administrators monitor court quality and customer satisfaction.  
+
+4. **Mobile-Responsive Design**  
+   - Ensure the web interface works seamlessly on tablets and smartphones.  
+   - Improve accessibility and usability for all devices.  
+
+5. **Waitlist System for Fully Booked Courts**  
+   - Allow customers to join a waitlist if the desired court/time is unavailable.  
+   - Automatically notify customers if a slot becomes available.  
+
+6. **Analytics and Reporting Enhancements**  
+   - Provide administrators with visual dashboards to monitor booking trends.  
+   - Include advanced reports such as revenue projections, peak hours, and customer statistics.  
+
+7. **User Activity Tracking**  
+   - Track frequent customers and their preferences.  
+   - Provide insights to optimize scheduling and promotions.  
+
+8. **Additional Add-ons and Services**  
+   - Include more optional services like coaching sessions or equipment rentals.  
+   - Integrate these add-ons into the reservation and billing system.  
