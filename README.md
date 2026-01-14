@@ -30,12 +30,12 @@ SmashZone’s Badminton Court Scheduling and Reservation System is a centralized
 ## Project Members
 
 **Head:**  
-- N/A
+- Castro, James Adrian
 
 **Members:**  
-- Amio, John Carlson  
-- Castro, James Adrian  
-- Cinco, Michaela  
+- Amio, John  
+- Cinco, Michaela
+- Santos, Samantha Lui   
 - Tarlac, Carlo Jose  
 
 ---
